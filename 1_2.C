@@ -1,0 +1,33 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ clrscr();
+ printf("hello\aworld\n");
+ printf("hello\bworld\n");
+ printf("hello\cworld\n");
+ printf("hello\dworld\n");
+ printf("hello\eworld\n");
+ printf("hello\fworld\n");
+ printf("hello\gworld\n");
+ printf("hello\hworld\n");
+ printf("hello\iworld\n");
+ printf("hello\jworld\n");
+ printf("hello\kworld\n");
+ printf("hello\lworld\n");
+ printf("hello\mworld\n");
+ printf("hello\nworld\n");
+ printf("hello\oworld\n");
+ printf("hello\pworld\n");
+ printf("hello\qworld\n");
+ printf("hello\rworld\n");
+ printf("hello\sworld\n");
+ printf("hello\tworld\n");
+ printf("hello\uworld\n");
+ printf("hello\vworld\n");
+ printf("hello\wworld\n");
+ printf("hello\xworld\n");
+ printf("hello\yworld\n");
+ printf("hello\zworld\n");
+ getch();
+}
